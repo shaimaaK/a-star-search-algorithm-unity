@@ -7,6 +7,8 @@ issues of mobile robots encounters:
 
 ## Demo
 ![unity-simulation](https://github.com/shaimaaK/a-star-search-algorithm-unity/assets/54285485/127eb097-89ee-476b-9c6f-d69a2695be1c)
+![a-star-unity](https://github.com/shaimaaK/a-star-search-algorithm-unity/assets/54285485/c35ba472-bbdd-4cf5-859b-d989c925cd11)
+
 
 
 ## Table of contents
