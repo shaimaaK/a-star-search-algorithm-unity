@@ -7,7 +7,7 @@ issues of mobile robots encounters:
 
 ## Demo
 ![unity-simulation](https://github.com/shaimaaK/a-star-search-algorithm-unity/assets/54285485/127eb097-89ee-476b-9c6f-d69a2695be1c)
-![a-star-unity](https://github.com/shaimaaK/a-star-search-algorithm-unity/assets/54285485/c35ba472-bbdd-4cf5-859b-d989c925cd11)
+![a-star-unity](https://github.com/shaimaaK/a-star-search-algorithm-unity/assets/54285485/7930e06f-4936-411b-b81a-e303bb6a8ca1)
 
 
 
@@ -26,7 +26,7 @@ The player is indicated by the red cylinder, and the target location (out of the
 The floor of the maze is composed of small cube unit that is color coded as the following :
 - 🟥 -> collision area
 - ◻️ -> walkable area
-- 🟦 -> target final location (out of the maze)
+- 🟦 -> agent initial location
 - ⬛ -> shortest route out of the maze, which is computed using `A star search algorithm`
 ## A Guide to Installation and Use
 To try the project, clone the repository and run the **A star algo** scene.<br>
